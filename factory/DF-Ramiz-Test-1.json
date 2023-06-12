@@ -1,0 +1,9 @@
+{
+	"name": "DF-Ramiz-Test-1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "855f2804-8ea6-454c-a45a-afab122b81bc",
+		"tenantId": "b7635822-7528-4ef5-9b9f-cadc9f00ec9a"
+	}
+}
