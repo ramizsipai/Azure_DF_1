@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "DF-Ramiz-Test-1"
 		},
+		"LS_AzureBlob_storageaccountramiztest1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
